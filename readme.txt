@@ -14,7 +14,7 @@ Listen & Surf
 ____________________
 
 Ones Hàptiques 2016
-by Xavier Manzanares 
+by-sa Xavier Manzanares 
 LGPL
 
 
